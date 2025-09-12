@@ -4,37 +4,40 @@ body{
 #image {
     border-radius: 100px;
     position:absolute;
-    left: 600px;
-    top: 100px;
+    left: 25%;
+    top: 30%;
 
     
 }
 #paragraph{
     position: absolute;
     font-size: 20px;
-    left: 900px;
-    top: 200px;
+    left: 45%;
+    top: 35%;
+    
 }
 p{
     font-family:Arial, Helvetica, sans-serif
 }
 #homeButton{
     position: absolute;
-    left: 925px;
-    top: 240px;
+    left: 55%;
+    top: 40%;
 }
 #resumeButton{
     position: absolute;
-    left: 1000px;
-    top: 240px
+    left: 60%;
+    top: 40%;
 }
 #socialsButton{
     position: absolute;
-    left: 1090px;
-    top: 240px
+    left: 65.5%;
+    top: 40%
 }
 #description{
-    position:absolute;
-    left: 925px;
-    top: 300px;
+    position: absolute;
+    font-weight: bold;
+    left: 45%;
+    top: 45%;
+    margin-right: 10%;
 }
