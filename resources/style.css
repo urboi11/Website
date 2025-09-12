@@ -1,0 +1,21 @@
+body{
+    background-color:blanchedalmond
+}
+.image {
+    border-radius: 100px;
+    position:absolute;
+    left: 600px;
+    top: 100px;
+
+    
+}
+.paragraph{
+    position: absolute;
+    font-size: 20px;
+    
+    left: 900px;
+    top:100px;
+}
+p{
+    font-family:Arial, Helvetica, sans-serif
+}
